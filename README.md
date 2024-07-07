@@ -58,35 +58,15 @@ Finding recipes that cater to specific dietary needs and preferences can be a ch
 
 #### Home Page
 
-![](home.png)
+![HOMEPAGE](./src/assets/images/HOMEPAGE.png)
 
 #### Register Page
 
-![](register.png)
+![REGISTERPAGE](./src/assets/images/REGISTERPAGE.png)
 
-#### Login Page
+#### Discover Page
 
-![](login.png)
-
-#### Enter Location Page
-
-![](enter-location.png)
-
-#### View Cafés Page
-
-![](view-cafes.png)
-
-#### View Café Page
-
-![](view-cafe.png)
-
-#### View Café Page (Rated state)
-
-![](view-cafe-rated.png)
-
-### Data
-
-![](sql-diagram.png)
+![Discover Page ](./src/assets/images/DISCOVER-PAGE.png)
 
 ### Endpoints
 
